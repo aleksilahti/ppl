@@ -1,2 +1,2 @@
 # ppl
-private pilot licence (PPL) theoretical knowlwdge quiz
+private pilot licence (PPL) theoretical knowledge quiz
